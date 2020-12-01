@@ -125,8 +125,7 @@
 
 <item>
 <title>[COLOR blue]•••• Rádio Metropolitana FM 98.5 SP •••• [/COLOR]</title>
-<link>http://ice.paineldj3.com.br:8004/stream?1572892268299/1$$lsname=</link>
-<link>https://f33.fabricahost.com.br/metropolitana985sp?f=1600796765N5c5977dd5a2730cd57537c6d2ce29ff2/1$$lsname=</link>
+<link>https://f42.fabricahost.com.br/metropolitana985sp?f=1606854274Nfb9c3f2815dfe6748451d88de7a8070a</link>
 <thumbnail>https://cdn.webrad.io/images/logos/radiosaovivo-net/metropolitana-online.png</thumbnail>
 <fanart>https://i.pinimg.com/originals/27/ef/c7/27efc7003a7d0c1424dfb799a9504d96.jpg</fanart>
 </item>
@@ -134,7 +133,7 @@
 
 <item>
 <title>[COLOR blue]•••• Rádio MIX 106,3 SP •••• [/COLOR]</title>
-<link>http://mixaac.crossradio.com.br:1100/live</link>
+<link>https://shout12.crossradio.com.br:18002/1;</link>
 <thumbnail>https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png</thumbnail>
 <fanart>https://i.pinimg.com/originals/27/ef/c7/27efc7003a7d0c1424dfb799a9504d96.jpg</fanart>
 </item>

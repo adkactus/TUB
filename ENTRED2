@@ -1,14 +1,6 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]RÁDIO FAVORITAS[/COLOR]</name>
-<thumbnail>https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/br.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/adkactus/TUB/main/RADFAVORIT</externallink>
-<fanart>https://maxmusicsound.files.wordpress.com/2014/10/dj-music-wallpapers-hd-cool-hd-music-wallpaper-desktop-equaliser-dj-backgrounds.jpg</fanart>
-<info>videos direto do youtube </info>
-
-<channels>
-<channel>
 <name>[COLOR lime]CANAIS AO VIVO YOUTUBE[/COLOR]</name>
 <thumbnail>https://conteudo.imguol.com.br/c/entretenimento/8a/2016/03/18/youtube---logo-1458336720315_1536x1082.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/adkactus/TUB/main/CANAISTUB</externallink>

@@ -9,46 +9,47 @@
         <item><TV AO VIVO YOUTUBE[COLOR=yellow] <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0FqaEFwd5wZJPxV4OhNzRVXKC3Rlszn0WgQ&usqp=CAU</thumbnail></item>
          
    
- 
+  
+<items>
+<item>
+<title>[COLOR white][COLOR blue]Record News [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VQRH6xM6T2o</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnghQB27FYupq2LKA3ihKPZhJ2P1nc-7I09yFa4h4A=s48-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart>https://www.guiadomarketing.com.br/wp-content/uploads/2019/02/como-criar-um-canal-de-sucesso-no-youtube.jpg</fanart>
+<info>CANAIS DE TV - TODOS DIRETO DO YOUTUBE</info>
+</item>
  
 <items>
- 
- 
-
- <item>
+<item>
 <title>[COLOR white][COLOR blue]CNN BRASIL AO VIVO [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=nPG59YH8Clk</link>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxW3mE5brSD131vfezbvi4o1ohUd_P15EE5QM1b=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://www.guiadomarketing.com.br/wp-content/uploads/2019/02/como-criar-um-canal-de-sucesso-no-youtube.jpg</fanart>
-<info></info>
+<info>CANAIS DE TV - TODOS DIRETO DO YOUTUBE</info>
 </item>
- 
- 
- 
+
 <item>
 <title>[COLOR white][COLOR blue]TV APARECIDA [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=4kZFfL0IRQM</link>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJw8wsxNGd-ShsJOnsigHAM9loI9hVyw5bke3sz97g=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://www.guiadomarketing.com.br/wp-content/uploads/2019/02/como-criar-um-canal-de-sucesso-no-youtube.jpg</fanart>
-<info></info>
+<info>CANAIS DE TV - TODOS DIRETO DO YOUTUBE</info>
 </item>
- 
- 
 
 <item>
 <title>[COLOR white][COLOR blue]REDE VIDA [/COLOR] </title>
 <link>plugin://plugin.video.youtube/play/?video_id=Zd5Mk9yKZ6s</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png</thumbnail>
 <fanart>https://www.guiadomarketing.com.br/wp-content/uploads/2019/02/como-criar-um-canal-de-sucesso-no-youtube.jpg</fanart>
-<info></info>
+<info>CANAIS DE TV - TODOS DIRETO DO YOUTUBE</info>
 </item>
- 
+
 <item>
 <title>[COLOR white][COLOR blue]RECORD NEWS [/COLOR] </title>
 <link>plugin://plugin.video.youtube/play/?video_id=cI6gbkteAlo</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png</thumbnail>
 <fanart>https://www.guiadomarketing.com.br/wp-content/uploads/2019/02/como-criar-um-canal-de-sucesso-no-youtube.jpg</fanart>
-<info></info>
+<info>CANAIS DE TV - TODOS DIRETO DO YOUTUBE</info>
 </item>
 
 <item>
@@ -56,10 +57,9 @@
 <link>plugin://plugin.video.youtube/play/?video_id=9z_8k1Ir-6U</link>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJx1Lgf-V9Qq2bRdJANDp3UAif_yR0UKFgPqpKOr=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://www.guiadomarketing.com.br/wp-content/uploads/2019/02/como-criar-um-canal-de-sucesso-no-youtube.jpg</fanart>
-<info></info>
+<info>CANAIS DE TV - TODOS DIRETO DO YOUTUBE</info>
 </item>
- 
- 
+  
  <item>
 <title>[COLOR white][COLOR blue]PESCARIA 24 HORAS POR DIA 👉 INSCREVA-SE 🎣 FISH TV AO VIVO [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=jpaREzXdLDM</link>

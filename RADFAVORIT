@@ -1,5 +1,12 @@
 <items>
  
+ <item>
+<title>[COLOR blue]•••• Fita Cassete •••• [/COLOR]</title>
+<link>https://www.radios.com.br/old_php/players/load/silence.mp3</link>
+<thumbnail>https://img.radios.com.br/radio/lg/radio162745_1603505533.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/27/ef/c7/27efc7003a7d0c1424dfb799a9504d96.jpg</fanart>
+<info>Atlântida FM Porto Alegre ao vivo Categorias:  Rock, Top 40, Pop Music</info>
+</ite
  
 <item>
 <title>[COLOR blue]•••• Atlântida FM Porto Alegre ao vivo •••• [/COLOR]</title>
@@ -125,19 +132,15 @@
 
 <item>
 <title>[COLOR blue]•••• Rádio Metropolitana FM 98.5 SP •••• [/COLOR]</title>
-<link>https://f33.fabricahost.com.br/metropolitana985sp?f=1614954086N75335533144ca46e7a993d843d9bf00d1$$lsname=1</link>
-<link>https://f27.fabricahost.com.br/metrosppop?f=1615210617N75335533144ca46e7a993d843d9bf00d$$lsname=2</link>
-
+<link>https://f36.fabricahost.com.br/metropolitana985sp?f=1616440421N6d8a371135fa6f14c3db53c26916eb70</link>
 <thumbnail>https://cdn.webrad.io/images/logos/radiosaovivo-net/metropolitana-online.png</thumbnail>
 <fanart>https://i.pinimg.com/originals/27/ef/c7/27efc7003a7d0c1424dfb799a9504d96.jpg</fanart>
 </item>
 
 
-//f36.fabricahost.com.br/metropolitana985sp?f=1607016707N4d3f1ea92ca57b4f5c75f85c4b18ab92
-
 <item>
 <title>[COLOR blue]•••• Rádio MIX 106,3 SP •••• [/COLOR]</title>
-<link>https://shout12.crossradio.com.br:18002/1;</link>
+<link>https://shout12.crossradio.com.br:18002/1;?</link>
 <thumbnail>https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png</thumbnail>
 <fanart>https://i.pinimg.com/originals/27/ef/c7/27efc7003a7d0c1424dfb799a9504d96.jpg</fanart>
 </item>

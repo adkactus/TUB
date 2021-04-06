@@ -1,11 +1,23 @@
- <item>
+<item>
+<title>[COLOR orange][B]BAKE OF BRASIL[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCw2WDC9gc0jzoHsoRAzR9Yw/?page=0</jsonrpc>
+<thumbnail>https://static.sbt.com.br/media/playlist/20150617135336/20150622163247/tn/20200120120150.jpeg</thumbnail>
+<fanart>https://mainaranobrega.files.wordpress.com/2015/09/bakeoff.png</fanart>
+<info>Bake Off Brasil uma disputa entre confeiteiros amadores, apresentada por Nadja Haddad. 
+Os participantes são submetidos a provas técnicas e criativas e precisam colocar a mão na massa para alcançar enfrentar a nossa dupla de jurados especializados, 
+Olivier Anquier e Beca Milano! A cada semana, um candidato é eliminado da competição.</info>
+</item>
+
+
+<item>
 <title>[COLOR orange]NÃO PODE RIR[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UC-PjJT0RVURj_L6D8D3WIww/?page=0</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwngy7JvhkRHcTEtagz43ADW5nHssaXmrtHCRL32a7g=s48-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart>https://i.uai.com.br/XB-yu6CAUeWroAhgdUZaPKCK0gw=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2020/08/02/261206/20200802151734606202e.jpg</fanart>
 <info>canal direto do youtube</info>
-</item
+</item>
  
 
  

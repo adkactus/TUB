@@ -105,20 +105,17 @@ Olivier Anquier e Beca Milano! A cada semana, um candidato é eliminado da compe
 </item>
 
 
-
 <item>
 <title>[COLOR lime][B]A Maldição de Oak Island temporad 1-2-3 e 4[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/uplista/tube/master/OAKISLAND</externallink>
 <link>https://raw.githubusercontent.com/uplista/tube/master/OAKISLAND</link>
-<jsonrpc>ignored</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/bf/67/01/bf6701491a0a84f791e850a561859411.jpg</thumbnail>
 <fanart>https://misteriosdomundo.org/wp-content/uploads/2019/04/oak-island-3.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR red][B]MUSICAS  - YOUTUBE[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/uplista/entrada/master/MUSIC</externallink>
 <jsonrpc>ignored</jsonrpc>
+<link>https://raw.githubusercontent.com/uplista/entrada/master/MUSIC</link>
 <thumbnail>https://img.discogs.com/dbOF1-QI7Hc9P5kI7nEFdpN9VdA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3619604-1441467985-5133.jpeg.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/_P__oz_o6DyE/Smar-NTUALI/AAAAAAAAACc/tVZlAoTW3ZU/w1200-h630-p-k-no-nu/imagem.JPG</fanart>
 </item>

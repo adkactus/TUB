@@ -12,7 +12,17 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]CANAIS YOUTUBE[/COLOR][/B]</name>
+<name>[COLOR red][B]YOUTUBE 1[/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/9/items/canais_202103/CANAIS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/adkactus/TUB/main/CANAISTUB1</externallink>
+<fanart>https://i.ytimg.com/vi/eCQBcTiE_TI/maxresdefault.jpg</fanart>
+<info>videos direto do youtube </info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR red][B]YOUTUBE 2[/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/9/items/canais_202103/CANAIS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/adkactus/TUB/main/CANAISTUB1</externallink>
 <fanart>https://i.ytimg.com/vi/eCQBcTiE_TI/maxresdefault.jpg</fanart>

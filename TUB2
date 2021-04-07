@@ -1,17 +1,21 @@
-<item>
-<title>[COLOR orange][B]Escolinha do Professor Raimundo - Youtube[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/adkactus/TUB/main/PROF</link>
-<jsonrpc>ignoreme</jsonrpc>
+<channels>
+<channel>
+<name>[COLOR orange][B]Escolinha do Professor Raimundo - Youtube[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/originals/2a/fd/81/2afd818d68bd45ff8fab9a8b8686bb45.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/adkactus/TUB/main/PROF</externallink>
 <fanart>https://mainaranobrega.files.wordpress.com/2015/09/bakeoff.png</fanart>
 <info>canal direto do youtube</info>
-</item>
+</channels>
+</channel>
 
 
-<item>
-<title>[COLOR red][B]MUSICAS - YOUTUBE[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR orange][B]MUSICAS - YOUTUBE[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/originals/2a/fd/81/2afd818d68bd45ff8fab9a8b8686bb45.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/uplista/entrada/master/MUSIC</externallink>
-<jsonrpc>ignoreme</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+<fanart>https://mainaranobrega.files.wordpress.com/2015/09/bakeoff.png</fanart>
+<info>canal direto do youtube</info>
+</channels>
+</channel>
+

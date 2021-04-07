@@ -10,14 +10,6 @@ Olivier Anquier e Beca Milano! A cada semana, um candidato é eliminado da compe
 </item>
 
 <item>
-<title>[COLOR lime][B]Escolinha do Professor Raimundo - Youtube[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/adkactus/TUB/main/PROF</externallink>
-<thumbnail>https://i.pinimg.com/originals/2a/fd/81/2afd818d68bd45ff8fab9a8b8686bb45.jpg</thumbnail>
-<fanart>https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/08/04/806x444/1_escolinha-16474549.jpg</fanart>
-<info>canal direto do youtube</info>
-</item>
-
-<item>
 <title>[COLOR orange]NÃO PODE RIR[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UC-PjJT0RVURj_L6D8D3WIww/?page=0</jsonrpc>
@@ -102,21 +94,6 @@ Olivier Anquier e Beca Milano! A cada semana, um candidato é eliminado da compe
 <thumbnail>https://yt3.ggpht.com/a/AATXAJwaTt9SgnyhyqxwxgeT0Jv00E-lQ8NTiESUJyul=s100-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://img.r7.com/images/top-chef-brasil-04042019125406227?dimensions=660x360</fanart>
 <info>Nem só de chocolate vive uma chef chocolatier. Luisa Abram, convidada do quarto episódio de Top Chef Brasil 2, não fica na vontade quando o assunto é comida. Veja no conteúdo exclusivo para as plataformas digitais do reality!</info>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]A Maldição de Oak Island temporad 1-2-3 e 4[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/uplista/tube/master/OAKISLAND</link>
-<thumbnail>https://i.pinimg.com/originals/bf/67/01/bf6701491a0a84f791e850a561859411.jpg</thumbnail>
-<fanart>https://misteriosdomundo.org/wp-content/uploads/2019/04/oak-island-3.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]MUSICAS  - YOUTUBE[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/uplista/entrada/master/MUSIC</link>
-<thumbnail>https://img.discogs.com/dbOF1-QI7Hc9P5kI7nEFdpN9VdA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3619604-1441467985-5133.jpeg.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/_P__oz_o6DyE/Smar-NTUALI/AAAAAAAAACc/tVZlAoTW3ZU/w1200-h630-p-k-no-nu/imagem.JPG</fanart>
 </item>
 
 

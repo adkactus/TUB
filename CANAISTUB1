@@ -1,4 +1,16 @@
 <item>
+<title>[COLOR orange][B]MTV BRASIL[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCVN82Qid2Al8bPBr9I0FxVQ/?page=0</jsonrpc>
+<thumbnail>https://i0.wp.com/dicaappdodia.com/wp-content/uploads/2021/02/MTV-De-Ferias-Com-o-Ex-Brasil-Celebs-2-scaled.jpg?fit=1024%2C1024&ssl=1</thumbnail>
+<fanart>https://mainaranobrega.files.wordpress.com/2015/09/bakeoff.png</fanart>
+<info>Era o melhor reality da TV que você queria? Então toma! Sem muita preocupação com cancelamento e sem se privar de curtir ao máximo, nossas celebs vão brilhar a partir de 8 DE ABRIL, primeiro na MTV! #DeFériasCelebs #ExNaMTV 
+Encontre todos os videos dos seus programas favoritos, cenas inéditas e muito mais!</info>
+</item>
+
+
+
+<item>
 <title>[COLOR orange][B]BAKE OF BRASIL[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCw2WDC9gc0jzoHsoRAzR9Yw/?page=0</jsonrpc>

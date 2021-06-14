@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>[COLOR orange][B]Pânico na TV - Youtube[/B][/COLOR]</name>
+<thumbnail>https://seeklogo.com/images/P/P__nico_na_TV-logo-DA4D0EFCAD-seeklogo.com.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/adkactus/TUB/main/PANICOTV</externallink>
+<fanart>https://mainaranobrega.files.wordpress.com/2015/09/bakeoff.png</fanart>
+<info>canal direto do youtube</info>
+</channels>
+</channel>
+
+
+<channels>
+<channel>
 <name>[COLOR orange][B]Escolinha do Professor Raimundo - Youtube[/B][/COLOR]</name>
 <thumbnail>https://i.pinimg.com/originals/2a/fd/81/2afd818d68bd45ff8fab9a8b8686bb45.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/adkactus/TUB/main/PROF</externallink>

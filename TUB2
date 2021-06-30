@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[COLOR orange][B]Os Trapalhões - Youtube[/B][/COLOR]</name>
+<thumbnail>https://media.fstatic.com/LtLmhr31Fq1CHbLw-4G2dwZ8Vlg=/290x478/smart/media/movies/covers/2012/09/afba8cecb437574d66ab413ba1b55861.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/adkactus/TUB/main/OSTRAPA</externallink>
+<fanart>https://mainaranobrega.files.wordpress.com/2015/09/bakeoff.png</fanart>
+<info>canal direto do youtube</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
 <name>[COLOR orange][B]Pânico na TV - Youtube[/B][/COLOR]</name>
 <thumbnail>https://seeklogo.com/images/P/P__nico_na_TV-logo-DA4D0EFCAD-seeklogo.com.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/adkactus/TUB/main/PANICOTV</externallink>

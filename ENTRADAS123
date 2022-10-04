@@ -1,18 +1,5 @@
 
 
-
-
-<channels>
-<channel>
-<name>[COLOR orange][B]::::TESTE:::[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/adkactus/TESTE2/main/TESTE</externallink>
-<fanart></fanart>
-<info>TODOS OS LINK DE FILME SÃO ENCONTRADOS NO GOOGLE,TODOS NA INTERNET</info>
-</channels>
-</channel>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>
 <channel>
 <name>[COLOR lime][B]::::LANÇAMENTOS:::[/B][/COLOR]</name>
@@ -83,7 +70,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]::::MARVEL:::[/B][/COLOR]</name>
+<name>[COLOR lime][B]::::AVENTURA:::[/B][/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/26/items/animaco-es/MARVEL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/adkactus/TESTE2/main/ADVENTURE</externallink>
 <fanart>https://cinemacomrapadura.com.br/imagens/2018/04/20180409-vingadores.jpg</fanart>
